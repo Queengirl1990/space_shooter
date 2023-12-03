@@ -1,6 +1,7 @@
 # space_shooter
 
-<img src="[https://media1.giphy.com/media/pyVIlvskHiwTe/giphy.gif?cid=ecf05e47bnbxzfjbt4mmgj5zsyidxd9vno2z7g72ott03ike&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://img.itch.zone/aW1nLzY0NzU2OTEuZ2lm/original/MxrRQW.gif)" alt="GIF" width="300"/>
+<img src="https://media1.giphy.com/media/pyVIlvskHiwTe/giphy.gif?cid=ecf05e47bnbxzfjbt4mmgj5zsyidxd9vno2z7g72ott03ike&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
+
 
 
 Workflow: Repository für das Space Shooter Spiel
