@@ -1,5 +1,8 @@
 # space_shooter
-Lektion 4.2.3 GitHub
+
+<img src="https://media1.giphy.com/media/pyVIlvskHiwTe/giphy.gif?cid=ecf05e47bnbxzfjbt4mmgj5zsyidxd9vno2z7g72ott03ike&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
+
+
 Workflow: Repository für das Space Shooter Spiel
 Schritt 1:
 Melde dich zunächst bei Sign in to GitHub: GitHubhttps://github.com › login an. Achte hierbei auf einen guten Namen für deinen GitHub-Account. 😉 Den Account kannst du später auch als Referenz für dein Portfolio nutzen.
