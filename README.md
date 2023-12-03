@@ -1,6 +1,5 @@
 # space_shooter
 
-Planet Icon
 
 <img src="https://media1.giphy.com/media/pyVIlvskHiwTe/giphy.gif?cid=ecf05e47bnbxzfjbt4mmgj5zsyidxd9vno2z7g72ott03ike&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
 
